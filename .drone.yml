@@ -1,6 +1,6 @@
 publish:
     docker:
-        repo: wizehub/kushwahashiv_express-angular
+        repo: wizehub/atul-wizni_express-angular
         username: $$DOCKER_USER
         password: $$DOCKER_PASS
         email: $$DOCKER_EMAIL
